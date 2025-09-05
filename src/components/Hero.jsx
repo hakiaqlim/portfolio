@@ -28,7 +28,7 @@ const Hero = () => {
             </AnchorLink>
           </button>
           <a
-  href="/resume.pdf"
+  href="/HakimaAqlimcv.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="text-white hover:scale-105 transition px-6 py-2 rounded-full border border-white"
